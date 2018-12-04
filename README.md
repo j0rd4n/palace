@@ -1,4 +1,5 @@
 # palace
 lets get this bread
 
-if trial run use false = faster indexing
+True and False uses Capital letters!
+Direct Fetch is much faster indexing so use it
